@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-gray{
+    background-color: rgb(209, 209, 209);
+}
+
+.navbar{
+    width:1171px;
+    height:60px;
+    border-radius: 3%;
+}
+
+.sbar{
+    width:250px;
+}
+
+.cards{
+    width:1171px;
+    padding:0;
+}
+
+.card{
+    background-color: rgb(0, 172, 172);
+    float:left;
+    width: 28.8%;
+    height:60px;
+    padding: 2%;
+    margin: 3px;
+    border-radius: 3%;
+}
+
+.copyright{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.tdn {
+    text-decoration: none;
+}
